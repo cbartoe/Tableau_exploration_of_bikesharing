@@ -2,7 +2,7 @@
 Tableau Story: 
 https://public.tableau.com/app/profile/colin1753/viz/Bikeshare_16227460584840/BikeshareStory
 
-Trableau Dashboard:
+Tableau Dashboard:
 https://public.tableau.com/views/Book1_16225950340940/NYCCitiBike?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Overview
