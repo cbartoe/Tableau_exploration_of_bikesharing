@@ -1,6 +1,9 @@
 # Bike Sharing Analysis
-Tableau Public: 
+Tableau Story: 
 https://public.tableau.com/app/profile/colin1753/viz/Bikeshare_16227460584840/BikeshareStory
+
+Trableau Dashboard:
+https://public.tableau.com/views/Book1_16225950340940/NYCCitiBike?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Overview
 This analysis of New York City Citi Bike use is meant to create a framework with which to determine if bike sharing business would be viable in Des Moines, Iowa. This analysis is cursory and does not take into account factors related to Des Moines' population, density, financial dmeographics, or competition. In this assessment we will examine ride share data in relation to service type (subscription vs non-subscription), gender, days and times, and locations of use. 
